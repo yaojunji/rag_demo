@@ -23,3 +23,5 @@ frontend/dist/
 .env.production
 
 tsconfig.tsbuildinfo
+# 示例文档（本地生成，不入库；由 make_examples.py 生成）
+examples/
