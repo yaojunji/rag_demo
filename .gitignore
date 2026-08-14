@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+backend/.coverage
+
+# 运行时数据
+data/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 环境与密钥（勿提交真实密钥）
+.env
+.env.local
+.env.production
+
+tsconfig.tsbuildinfo
